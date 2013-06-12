@@ -1,0 +1,16 @@
+	
+footer{
+	margin-top: 0px	;
+	padding-top: 10px;
+	width: 100%; 
+	height: 130px; 
+	display: block;
+	color: #CCCCCC;
+	font-size: 15px;
+	font-family: Monaco, "DejaVu Sans Mono", "Lucida Console", "Andale Mono", monospace;
+	background-color: #222222;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
